@@ -747,3 +747,14 @@ Entries:
   id: 2211
   time: '2026-05-19T06:51:44.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/102
+- author: DaCookieCakes
+  changes:
+    - type: Add
+      message: Added a brand new ChemMaster UI with a toggle for the old one.
+    - type: Add
+      message: Added more transfer amounts for the ChemMaster. (15 and 30)
+    - type: Fix
+      message: Hopefully fixed a ChemMaster grid-reload client-side bug.
+  id: 2212
+  time: '2026-05-20T01:40:09.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/99
